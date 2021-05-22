@@ -1,0 +1,12 @@
+{
+"Id": "0000-00000-000000",
+"Name":"My Role",
+"IsCustom":true,
+"Description":"This is a custom role",
+"Actions":[],
+"NotActions":[],
+"DataActions":[],
+"NotDataActions":[],
+"AssignableScopes":[]
+
+}
