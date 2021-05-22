@@ -3,10 +3,11 @@
 "Name":"My Role",
 "IsCustom":true,
 "Description":"This is a custom role",
+"ActionComment":"REMOVE: Actions provide access, NotActions Deny access. Data Actions allow access to data like reading blob etc", 
 "Actions":[],
 "NotActions":[],
 "DataActions":[],
 "NotDataActions":[],
+"ScopeComment":"REMOVE: AssignableScope is for subscriptions or resource group",
 "AssignableScopes":[]
-
 }
